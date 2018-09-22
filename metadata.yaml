@@ -1,11 +1,16 @@
 _repo: Balloons-Airships-and-Flying-Machines_54799
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54799-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacon, Gertrude
     gutenberg_agent_id: '48048'
     url: http://www.gutenberg.org/2009/agents/48048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54799#Balloons-Airships-and-Flying-Machines
 gutenberg_issued: '2017-05-27'
 gutenberg_type: Text
 identifiers:
